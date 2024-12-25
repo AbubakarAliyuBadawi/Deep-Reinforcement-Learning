@@ -6,8 +6,7 @@ Abubakar Aliyu BADAWI
 ## University
 University of Toulon
 
-## Supervisor
-Prof. J. Arjona-Medina
+
 
 ## Overview
 This project explores advanced techniques in deep reinforcement learning, including Imitation Learning, Deep Q-Networks (DQN), and Proximal Policy Optimization (PPO). The objective is to implement these techniques, test different architectures, tweak hyperparameters, and evaluate their performance on various tasks and environments.
